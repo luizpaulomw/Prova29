@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "askForPassword": false,
+            "database": "bancolp",
+            "dialect": "MariaDB",
+            "name": "xampp",
+            "port": 3306,
+            "server": "localhost",
+            "username": "root"
+        }
+    ]
+}

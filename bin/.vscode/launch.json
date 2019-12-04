@@ -1,0 +1,46 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Tela2",
+            "request": "launch",
+            "mainClass": "Telas.Tela2",
+            "projectName": "db"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Tela1",
+            "request": "launch",
+            "mainClass": "Telas.Tela1",
+            "projectName": "db"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Conexao",
+            "request": "launch",
+            "mainClass": "Conexao.Conexao",
+            "projectName": "db"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TelaPrincipal",
+            "request": "launch",
+            "mainClass": "Telas.TelaPrincipal",
+            "projectName": "db"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - app",
+            "request": "launch",
+            "mainClass": "app",
+            "projectName": "db"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "db"
+        }
+    ]
+}
